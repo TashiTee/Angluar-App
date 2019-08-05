@@ -6,7 +6,7 @@
 *
 * Name: Tashi Tsering Student ID: 114763170 Date: 02/08/2019
 *
-* Heroku Link: https://web422nick.herokuapp.com/
+* Heroku Link: https://gentle-mountain-89529.herokuapp.com/home
 *
 ********************************************************************************/ 
 
